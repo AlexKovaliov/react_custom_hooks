@@ -1,25 +1,8 @@
 .App {
-    height: 100vh;
+    height: 100%;
+    width: 100%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-}
-
-button {
-    margin-top: 20px;
-    height: 25px;
-    background-color: lightsteelblue;
-    cursor: pointer;
-}
-
-.screen {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 50px;
-    min-width: 155px;
-    padding: 0 10px;
-    background-color: antiquewhite;
-    margin-bottom: 20px;
 }
